@@ -1,0 +1,182 @@
+@import "common";
+
+@include screen(1705px) {
+	.calendar-page {
+		&:not(.closed) {
+			.calendar-wrap-header .right {
+				.views-group {
+					position: absolute;
+					right: 28px;
+					top: 75px;
+				}
+			}
+		}
+	}
+}
+
+@include screen(1455px) {
+	.calendar-page {
+		.page-sidebar {
+			background: $white;
+			border-radius: 10px;
+			box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06), 0 1px 2px rgba(0, 0, 0, 0.12);
+			position: absolute;
+			width: 374px;
+			z-index: 10;
+		}
+
+		.page-sidebar-toggle {
+			top: 15px;
+			right: 15px;
+		}
+
+		.calendar-wrap {
+			width: 100%;
+		}
+
+		&.closed {
+				.page-sidebar {
+					position: relative;
+					background: none;
+					width: 0;
+				}
+
+				.calendar-wrap {
+					width: calc(100% - 32px - 16px);
+				}
+
+				.page-sidebar-toggle {
+					top: 15px;
+					right: 0;
+				}
+			}
+	}
+}
+
+@include screen(1340px) {
+	.patient-page-body {
+		.patient-documentation-tab {
+			&.show-attachment {
+				.left-side {
+					width: calc(100% - 500px - 16px);
+				}
+			}
+
+			.right-side {
+				width: 500px;
+
+				.image-preview {
+					height: 414px;
+				}
+			}
+		}
+	}
+
+	.calendar-page .calendar-wrap-header .right {
+		.views-group {
+			position: absolute;
+			right: 28px;
+			top: 75px;
+		}
+	}
+}
+
+@include screen(1024px) {
+	.schedule-page-header {
+		.select-box {
+			min-width: 150px;
+			max-width: 155px;
+		}
+	}
+
+	.import-page .content-wrapper-header {
+		.select-box {
+			min-width: 150px;
+			max-width: 155px;
+		}
+	}
+
+	.calendar-page .calendar-wrap-header {
+		.select-box {
+			min-width: 150px;
+			max-width: 155px;
+		}
+		.input-field {
+			min-width: 140px;
+			max-width: 140px;
+		}
+	}
+
+	.container-wrap {
+		padding: calc(var(--header-height) + var(--space)) var(--space) var(--space) 72px;
+	}
+
+	.patient-page-body {
+		.treatment-wrap-sidebar {
+			width: 280px;
+		}
+
+		.treatment-wrap {
+			&.opened {
+				.treatment-wrap-content {
+					width: calc(100% - 16px - 280px);
+				}
+			}
+		}
+	}
+
+	.patient-page-body {
+		.patient-documentation-tab {
+			&.show-attachment {
+				.left-side {
+					width: 49%;
+				}
+			}
+
+			.right-side {
+				width: 49%;
+
+				.image-preview {
+					height: 314px;
+				}
+			}
+		}
+
+		.treatment-course-tab {
+			.tab-content-body {
+				.left-side, .right-side {
+					width: 49%;
+				}
+			}
+		}
+	}
+}
+
+@media screen and (orientation: portrait) {
+	.main {
+		&.isMobile {
+			display: none;
+		}
+	}
+
+	.rotate {
+		&.isMobile {
+			display: block;
+			position: fixed;
+			background: $blue-lagoon;
+			top: 0;
+			left: 0;
+			height: 100%;
+			width: 100%;
+			font-size: 0;
+			text-align: center;
+			@include middle;
+
+			img {
+				display: inline-block;
+				vertical-align: middle;
+				width: 300px;
+			}
+		}
+	}
+}

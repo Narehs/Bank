@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:develop" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18703490-794f-4fc8-8859-0d24b32e9e4a" name="Default Changelist" comment="TRU-463:Create &quot;Product Category&quot; configuration tab">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Bank" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Bank" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Bank" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Bank" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Bank" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/TRU-389" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1a4nX604A1eSsRGePrhRvZ2DvmY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.inowise.trudent.patient.finance" />
+      <recent name="com.inowise.trudent.rimm" />
+      <recent name="com.inowise.trudent.warehouse" />
+      <recent name="com.inowise.trudent.employee" />
+      <recent name="com.inowise.trudent.security" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/grails-app/assets/stylesheets" />
+      <recent name="$PROJECT_DIR$/grails-app/views/user" />
+      <recent name="$PROJECT_DIR$/grails-app/views/admin/user/table" />
+      <recent name="$PROJECT_DIR$/grails-app/views/layouts" />
+      <recent name="$PROJECT_DIR$/grails-app/views/patient/tabs/patientDocumentation/popups" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/grails-app/views/admin/user" />
+      <recent name="$PROJECT_DIR$/grails-app/views/admin" />
+      <recent name="$PROJECT_DIR$/grails-app/views/patient/tabs/finances/popups" />
+      <recent name="$PROJECT_DIR$/grails-app/views/configuration/category/popup" />
+      <recent name="$PROJECT_DIR$/grails-app/views/configuration/category" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Grails.Grails: Bank">
+    <configuration name="bank [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="bank [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="bank [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Grails: Bank" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="$PROJECT_DIR$" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.bank [clean]" />
+      <item itemvalue="Gradle.bank [build]" />
+      <item itemvalue="Gradle.bank [assemble]" />
+      <item itemvalue="Grails.Grails: Bank" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.bank [clean]" />
+        <item itemvalue="Gradle.bank [assemble]" />
+        <item itemvalue="Gradle.bank [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18703490-794f-4fc8-8859-0d24b32e9e4a" name="Default Changelist" comment="" />
+      <created>1586003769322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586003769322</updated>
+      <workItem from="1586003773514" duration="14239000" />
+      <workItem from="1586116982257" duration="453000" />
+      <workItem from="1586119930771" duration="7790000" />
+      <workItem from="1586156814029" duration="1094000" />
+      <workItem from="1586186679943" duration="20621000" />
+      <workItem from="1586283258158" duration="4707000" />
+      <workItem from="1586292638581" duration="6967000" />
+      <workItem from="1586329514921" duration="18243000" />
+      <workItem from="1586428833870" duration="5905000" />
+      <workItem from="1586437090261" duration="8059000" />
+      <workItem from="1586527109932" duration="5133000" />
+      <workItem from="1587050699081" duration="115000" />
+      <workItem from="1587140719651" duration="612000" />
+      <workItem from="1587242401146" duration="681000" />
+      <workItem from="1587405425071" duration="40000" />
+      <workItem from="1587468835858" duration="1242000" />
+      <workItem from="1587485147079" duration="628000" />
+      <workItem from="1587501026473" duration="1552000" />
+      <workItem from="1587568613438" duration="6921000" />
+      <workItem from="1587581208977" duration="10324000" />
+      <workItem from="1587657904863" duration="2957000" />
+      <workItem from="1587663849284" duration="11667000" />
+      <workItem from="1587753305100" duration="15877000" />
+      <workItem from="1587904221550" duration="3696000" />
+      <workItem from="1587969658931" duration="487000" />
+      <workItem from="1587982822208" duration="24947000" />
+      <workItem from="1588109809096" duration="4518000" />
+      <workItem from="1588154513610" duration="162000" />
+      <workItem from="1588199404257" duration="3643000" />
+      <workItem from="1588245929367" duration="980000" />
+      <workItem from="1588265614102" duration="2306000" />
+      <workItem from="1588278362212" duration="12372000" />
+      <workItem from="1588365050905" duration="6376000" />
+      <workItem from="1588493741537" duration="903000" />
+      <workItem from="1588497623502" duration="5771000" />
+      <workItem from="1588841037778" duration="2575000" />
+      <workItem from="1588884989165" duration="92000" />
+      <workItem from="1590615239650" duration="7582000" />
+      <workItem from="1590773653619" duration="11791000" />
+      <workItem from="1591019124477" duration="203000" />
+      <workItem from="1591048633384" duration="3297000" />
+      <workItem from="1591113234696" duration="7103000" />
+      <workItem from="1591166453955" duration="8157000" />
+      <workItem from="1591214414015" duration="612000" />
+      <workItem from="1591274196025" duration="1869000" />
+      <workItem from="1591277127889" duration="11754000" />
+      <workItem from="1591373621034" duration="1248000" />
+      <workItem from="1591380269360" duration="45059000" />
+      <workItem from="1591587490593" duration="66000" />
+      <workItem from="1591590891487" duration="1233000" />
+      <workItem from="1591652004463" duration="53000" />
+      <workItem from="1591715178724" duration="8350000" />
+      <workItem from="1591876652849" duration="5727000" />
+      <workItem from="1592041299823" duration="6057000" />
+      <workItem from="1592057699626" duration="7376000" />
+      <workItem from="1592136298697" duration="2995000" />
+      <workItem from="1592163285851" duration="11360000" />
+      <workItem from="1592222161324" duration="5245000" />
+      <workItem from="1592396690444" duration="7297000" />
+      <workItem from="1592430396970" duration="92000" />
+      <workItem from="1592430555959" duration="38000" />
+      <workItem from="1592474708577" duration="3196000" />
+      <workItem from="1592485821211" duration="28000" />
+      <workItem from="1592488971421" duration="23000" />
+      <workItem from="1592496031495" duration="26973000" />
+      <workItem from="1592659039638" duration="689000" />
+      <workItem from="1592798472273" duration="11518000" />
+      <workItem from="1592823282415" duration="21000" />
+      <workItem from="1592826019171" duration="16484000" />
+      <workItem from="1592982611602" duration="614000" />
+      <workItem from="1592988868070" duration="13000" />
+      <workItem from="1593062148899" duration="58663000" />
+      <workItem from="1593495085951" duration="1102000" />
+      <workItem from="1593497496563" duration="44000" />
+      <workItem from="1594369621373" duration="4254000" />
+      <workItem from="1594382377661" duration="6191000" />
+      <workItem from="1594651358475" duration="33232000" />
+      <workItem from="1594828355091" duration="6907000" />
+      <workItem from="1594917864300" duration="2875000" />
+      <workItem from="1594958288300" duration="3944000" />
+      <workItem from="1594971862062" duration="3584000" />
+      <workItem from="1595067918668" duration="21455000" />
+      <workItem from="1595417961298" duration="11226000" />
+      <workItem from="1595486722843" duration="18439000" />
+      <workItem from="1595580437338" duration="10413000" />
+      <workItem from="1595770386885" duration="1274000" />
+      <workItem from="1595848489910" duration="7766000" />
+      <workItem from="1595954311050" duration="20000" />
+      <workItem from="1596021927322" duration="7979000" />
+      <workItem from="1596091582536" duration="16853000" />
+      <workItem from="1596203963022" duration="15783000" />
+      <workItem from="1596389367517" duration="9097000" />
+      <workItem from="1596401246965" duration="4972000" />
+      <workItem from="1596452374123" duration="122000" />
+      <workItem from="1596466132055" duration="3111000" />
+      <workItem from="1596470300182" duration="23000" />
+      <workItem from="1596470461851" duration="3236000" />
+      <workItem from="1596483593398" duration="1190000" />
+      <workItem from="1596526337278" duration="21362000" />
+      <workItem from="1596614597833" duration="5724000" />
+      <workItem from="1596746522747" duration="1645000" />
+      <workItem from="1596795799781" duration="15000" />
+      <workItem from="1596799598499" duration="5000" />
+      <workItem from="1596799616558" duration="1834000" />
+      <workItem from="1596816800838" duration="1610000" />
+      <workItem from="1597058041711" duration="2207000" />
+      <workItem from="1597089392460" duration="1219000" />
+      <workItem from="1597172691374" duration="5358000" />
+      <workItem from="1597231494376" duration="5669000" />
+      <workItem from="1597310566781" duration="10036000" />
+      <workItem from="1597417367727" duration="14424000" />
+      <workItem from="1597483730922" duration="15259000" />
+      <workItem from="1597654973284" duration="10455000" />
+      <workItem from="1597755038428" duration="4301000" />
+      <workItem from="1597769198628" duration="399000" />
+      <workItem from="1597771058319" duration="3565000" />
+      <workItem from="1597832066154" duration="674000" />
+      <workItem from="1597904697905" duration="4747000" />
+      <workItem from="1597909731086" duration="8946000" />
+      <workItem from="1598028242308" duration="1908000" />
+      <workItem from="1598035502812" duration="477000" />
+      <workItem from="1598036644013" duration="3556000" />
+      <workItem from="1598040227885" duration="25000" />
+      <workItem from="1598040264515" duration="2513000" />
+      <workItem from="1598173368869" duration="78000" />
+      <workItem from="1598284043486" duration="11917000" />
+      <workItem from="1598376313950" duration="2141000" />
+      <workItem from="1598515148540" duration="5341000" />
+      <workItem from="1598614809399" duration="12317000" />
+      <workItem from="1598771421431" duration="342000" />
+      <workItem from="1598963806125" duration="18146000" />
+      <workItem from="1599160868004" duration="29000" />
+      <workItem from="1601206775514" duration="1964000" />
+      <workItem from="1602278450818" duration="558000" />
+      <workItem from="1602331722879" duration="14262000" />
+      <workItem from="1602350106296" duration="928000" />
+      <workItem from="1602351414034" duration="53000" />
+      <workItem from="1602351525308" duration="29633000" />
+      <workItem from="1602385070388" duration="24234000" />
+      <workItem from="1602413041506" duration="3180000" />
+      <workItem from="1602416636128" duration="3073000" />
+      <workItem from="1602424327482" duration="81000" />
+    </task>
+    <task id="LOCAL-00077" summary="TRU-375:bug fix">
+      <created>1594981980097</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1594981980097</updated>
+    </task>
+    <task id="LOCAL-00078" summary="TRU-375:bug fix">
+      <created>1595138557229</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1595138557229</updated>
+    </task>
+    <task id="LOCAL-00079" summary="TRU-355:RIMM table for Extra Discounts">
+      <created>1595321200604</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1595321200604</updated>
+    </task>
+    <task id="LOCAL-00080" summary="TRU-355:RIMM table for Extra Discounts bug fix">
+      <created>1595349794484</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1595349794485</updated>
+    </task>
+    <task id="LOCAL-00081" summary="TRU-389:Patient documentation">
+      <created>1595428056671</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1595428056672</updated>
+    </task>
+    <task id="LOCAL-00082" summary="TRU-370:Restrict choosing the same user as connection">
+      <created>1595453316477</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1595453316477</updated>
+    </task>
+    <task id="LOCAL-00083" summary="TRU-355:Bug Fix edit extra discount">
+      <created>1595491079249</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1595491079250</updated>
+    </task>
+    <task id="LOCAL-00084" summary="TRU-357:Validation for &quot;First visit&quot; &amp; &quot;DOB&quot; fields | Patient Registration">
+      <created>1595493502125</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1595493502125</updated>
+    </task>
+    <task id="LOCAL-00085" summary="TRU-370:improvement restricted the same user as connection">
+      <created>1595507312033</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1595507312033</updated>
+    </task>
+    <task id="LOCAL-00086" summary="TRU-388:RIMM table for &quot;Diagnoses&quot; in Configurations front end implementation">
+      <created>1595524128739</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1595524128739</updated>
+    </task>
+    <task id="LOCAL-00087" summary="TRU-388:RIMM table for &quot;Diagnoses&quot; in Configurations back end implementation">
+      <created>1595587951204</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1595587951205</updated>
+    </task>
+    <task id="LOCAL-00088" summary="TRU-394:Remove newly added Extra Discount Rimm table &amp; configuration tab">
+      <created>1595590764721</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1595590764721</updated>
+    </task>
+    <task id="LOCAL-00089" summary="TRU-399:MaxLengths for &quot;Create Category&quot; fields">
+      <created>1595596837938</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1595596837938</updated>
+    </task>
+    <task id="LOCAL-00090" summary="TRU-399:MaxLengths for &quot;Create Category&quot; fields">
+      <created>1595625334292</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1595625334292</updated>
+    </task>
+    <task id="LOCAL-00091" summary="TRU-399:MaxLengths for &quot;Create Category&quot; fields">
+      <created>1595625379210</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1595625379210</updated>
+    </task>
+    <task id="LOCAL-00092" summary="TRU-389:&quot;Patient Documentation&quot; tab of Patient front end">
+      <created>1596023068012</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1596023068012</updated>
+    </task>
+    <task id="LOCAL-00093" summary="TRU-389:&quot;Patient Documentation&quot; tab of Patient back end">
+      <created>1596122981049</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1596122981050</updated>
+    </task>
+    <task id="LOCAL-00094" summary="TRU-389:&quot;Patient Documentation&quot; tab of Patient back end">
+      <created>1596214836775</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1596214836776</updated>
+    </task>
+    <task id="LOCAL-00095" summary="TRU-389:&quot;Patient Documentation&quot; tab of Patient back end front end delete and update partial">
+      <created>1596232018057</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1596232018057</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Merge branch 'develop' of bitbucket.org:h-ed/trudent into feature/TRU-389&#10;&#10;# Conflicts:&#10;#&#9;grails-app/domain/com/inowise/trudent/patient/Patient.groovy&#10;#&#9;grails-app/views/patient/utils/_hiddenUrls.gsp">
+      <created>1596232288939</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1596232288939</updated>
+    </task>
+    <task id="LOCAL-00097" summary="TRU-389: &quot;Patient Documentation&quot; tab of Patient">
+      <created>1596403114276</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1596403114277</updated>
+    </task>
+    <task id="LOCAL-00098" summary="TRU-394: Remove newly added Extra Discount Rimm table &amp; configuration tab">
+      <created>1596406102627</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1596406102627</updated>
+    </task>
+    <task id="LOCAL-00099" summary="TRU-415: maxLengths of fields in &quot;Create Diagnose&quot;">
+      <created>1596406282856</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1596406282856</updated>
+    </task>
+    <task id="LOCAL-00100" summary="TRU-394: Remove newly added Extra Discount Rimm table &amp; configuration tab bug fix">
+      <created>1596468054874</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1596468054874</updated>
+    </task>
+    <task id="LOCAL-00101" summary="TRU-415: maxLengths of fields in &quot;Create Diagnose&quot;">
+      <created>1596468784042</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1596468784042</updated>
+    </task>
+    <task id="LOCAL-00102" summary="TRU-389: &quot;Patient Documentation&quot; tab of Patient">
+      <created>1596558628828</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1596558628829</updated>
+    </task>
+    <task id="LOCAL-00103" summary="TRU-389: &quot;Patient Documentation&quot; tab of Patient">
+      <created>1596748667023</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1596748667023</updated>
+    </task>
+    <task id="LOCAL-00104" summary="TRU-389: &quot;Patient Documentation&quot; tab of Patient">
+      <created>1597172738739</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1597172738739</updated>
+    </task>
+    <task id="LOCAL-00105" summary="TRU-389: &quot;Patient Documentation&quot; tab of Patient">
+      <created>1597172985337</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1597172985338</updated>
+    </task>
+    <task id="LOCAL-00106" summary="TRU-425:TRU-426:TRU-427 remove document bug fix">
+      <created>1597183839338</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1597183839339</updated>
+    </task>
+    <task id="LOCAL-00107" summary="TRU-425:TRU-426:TRU-427 remove document bug fix">
+      <created>1597184072974</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1597184072974</updated>
+    </task>
+    <task id="LOCAL-00108" summary="TRU-441:TRU-413: make notes optional and treatment course date field logic">
+      <created>1597242045532</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1597242045532</updated>
+    </task>
+    <task id="LOCAL-00109" summary="TRU-441: init created date after click confirm button">
+      <created>1597242459927</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1597242459927</updated>
+    </task>
+    <task id="LOCAL-00110" summary="TRU-450: incorrect pagination documentation">
+      <created>1597263875665</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1597263875665</updated>
+    </task>
+    <task id="LOCAL-00111" summary="TRU-450: incorrect pagination documentation">
+      <created>1597272241880</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1597272241880</updated>
+    </task>
+    <task id="LOCAL-00112" summary="TRU-444: Changes in Finance tab">
+      <created>1597660327250</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1597660327250</updated>
+    </task>
+    <task id="LOCAL-00113" summary="TRU-444: TRU-446:Changes in Treatment Course Tab and Treatment Course History Tab">
+      <created>1597759153238</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1597759153239</updated>
+    </task>
+    <task id="LOCAL-00114" summary="TRU-444:Bug Fix in finance tab">
+      <created>1597783833608</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1597783833608</updated>
+    </task>
+    <task id="LOCAL-00115" summary="TRU-447, 398:Suggested values in &quot;Create Category&quot; pop-up and &quot;Archive&quot; action in Finance imple">
+      <created>1597926008568</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1597926008568</updated>
+    </task>
+    <task id="LOCAL-00116" summary="TRU-469:Default empty value for &quot;Confirmation Date&quot; field">
+      <created>1597926427564</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1597926427564</updated>
+    </task>
+    <task id="LOCAL-00117" summary="TRU-472:Edit Treatment in Configuration Tab">
+      <created>1598029307328</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1598029307329</updated>
+    </task>
+    <task id="LOCAL-00118" summary="TRU-482 TRU-483:suggested null and deleted value bug fix in configuration treatment tab">
+      <created>1598042570188</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1598042570189</updated>
+    </task>
+    <task id="LOCAL-00119" summary="TRU-482 TRU-483:suggested null and deleted value bug fix in configuration treatment tab">
+      <created>1598302530308</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1598302530309</updated>
+    </task>
+    <task id="LOCAL-00120" summary="TRU-482 TRU-483:suggested null and deleted value bug fix in configuration treatment tab">
+      <created>1598376776339</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1598376776339</updated>
+    </task>
+    <task id="LOCAL-00121" summary="TRU-471:Remove actions from course history page">
+      <created>1598519441832</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1598519441833</updated>
+    </task>
+    <task id="LOCAL-00122" summary="TRU-477:Ordering table columns finance tab">
+      <created>1598527361315</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1598527361315</updated>
+    </task>
+    <task id="LOCAL-00123" summary="TRU-478:Ordering data table columns treatment course history page">
+      <created>1598528575909</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1598528575909</updated>
+    </task>
+    <task id="LOCAL-00124" summary="TRU-463:Create &quot;Product Category&quot; configuration tab">
+      <created>1598771693994</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1598771693995</updated>
+    </task>
+    <task id="LOCAL-00125" summary="TRU-463:Create &quot;Product Category&quot; configuration tab">
+      <created>1599156640429</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1599156640430</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
+    <servers />
+  </component>
+  <component name="TraitInjectorService">
+    <option name="state">
+      <map>
+        <entry key="Bank.integrationTest">
+          <value>
+            <StateHolder>
+              <option name="knownFactories">
+                <list>
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/spring-security-core/3.1.2/ca54acbad681d79bd545373db6dac234a637009f/spring-security-core-3.1.2.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/3.2.11/defc4fc496c7e98923e1ca0fb852eed21a4e2e5f/grails-plugin-controllers-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.2.11/31aa79f187114f6c6f7ad7e99680f8c9690a1364/grails-web-url-mappings-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-domain-class/3.2.11/8ecdb3117cf16c9c238728722a69abf2fb9a17de/grails-plugin-domain-class-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-validation/3.2.11/a74ffc7b1ec19aab1da9d3a18789355ce0d32e41/grails-validation-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-taglib/3.2.11/5cecb5b1ec19166952543bc5a96a0cee03c0ae65/grails-web-taglib-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/3.2.11/c1aefcd4c25287c78c72aebf529de770ceb6d0a0/grails-core-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-gsp/3.2.11/bb62eb9eb697826d7984207407b735b529e7d280/grails-plugin-gsp-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/3.2.11/6ec096acd8e58484dc653a2aad70acca20c5284a/grails-plugin-rest-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/3.2.11/f105e88b6b61c27f69819a74425af1d23d0e3f9a/grails-web-databinding-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-common/3.2.11/9aedefdff96c461e8160e1a013979836c974721a/grails-web-common-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.2.11/31aa79f187114f6c6f7ad7e99680f8c9690a1364/grails-web-url-mappings-3.2.11.jar!/META-INF/services/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web/3.2.11/55172ba02b8bd2d0ce31631624afbe9f41b6cda6/grails-web-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-async/3.2.11/c27629295cb2b162080237d5a0a76c5fefee5f23/grails-plugin-async-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/cache/3.0.3/e857268f939b4b907ce91ff4f5217cfb97abcaa7/cache-3.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-testing/3.2.11/f62a90fe57b4c0f962a174635c5d498529507d2f/grails-plugin-testing-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-support/6.0.12.RELEASE/d4d3dea8bda48783ed7ad0602e208dfd433b1560/grails-datastore-gorm-support-6.0.12.RELEASE.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/hibernate5/6.0.12/4912a6445fbc726d9ce699dbe5d91af54036279e/hibernate5-6.0.12.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-codecs/3.2.11/39b46f29ceb1bef9ddce32d76034682a991d2775/grails-plugin-codecs-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-interceptors/3.2.11/7477d6b96ff9cade8fb5e35328242579c908708b/grails-plugin-interceptors-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/mail/2.0.0/e329ffe5c97f6949c61f0107b1b7e3d720ef2052/mail-2.0.0.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-services/3.2.11/fcf9e34bab3f7c668643616c39c4a169ceae914e/grails-plugin-services-3.2.11.jar!/META-INF/grails.factories" />
+                </list>
+              </option>
+              <option name="traits">
+                <map>
+                  <entry key="Controller">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.Controller" />
+                        <option value="grails.artefact.AsyncController" />
+                        <option value="grails.artefact.gsp.TagLibraryInvoker" />
+                        <option value="grails.artefact.controller.RestResponder" />
+                        <option value="grails.plugins.mail.SendMail" />
+                        <option value="grails.plugin.springsecurity.ControllerMixin" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="Domain">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.DomainClass" />
+                        <option value="grails.web.databinding.WebDataBinding" />
+                        <option value="grails.gorm.Entity" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="Interceptor">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.Interceptor" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="Service">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.Service" />
+                        <option value="grails.plugins.mail.SendMail" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="TagLib">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.TagLibrary" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="TagLibrary">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.TagLibrary" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </StateHolder>
+          </value>
+        </entry>
+        <entry key="Bank.main">
+          <value>
+            <StateHolder>
+              <option name="knownFactories">
+                <list>
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/spring-security-core/3.1.2/ca54acbad681d79bd545373db6dac234a637009f/spring-security-core-3.1.2.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/3.2.11/defc4fc496c7e98923e1ca0fb852eed21a4e2e5f/grails-plugin-controllers-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.2.11/31aa79f187114f6c6f7ad7e99680f8c9690a1364/grails-web-url-mappings-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-domain-class/3.2.11/8ecdb3117cf16c9c238728722a69abf2fb9a17de/grails-plugin-domain-class-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-validation/3.2.11/a74ffc7b1ec19aab1da9d3a18789355ce0d32e41/grails-validation-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-taglib/3.2.11/5cecb5b1ec19166952543bc5a96a0cee03c0ae65/grails-web-taglib-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/3.2.11/c1aefcd4c25287c78c72aebf529de770ceb6d0a0/grails-core-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-gsp/3.2.11/bb62eb9eb697826d7984207407b735b529e7d280/grails-plugin-gsp-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/3.2.11/6ec096acd8e58484dc653a2aad70acca20c5284a/grails-plugin-rest-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/3.2.11/f105e88b6b61c27f69819a74425af1d23d0e3f9a/grails-web-databinding-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-common/3.2.11/9aedefdff96c461e8160e1a013979836c974721a/grails-web-common-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.2.11/31aa79f187114f6c6f7ad7e99680f8c9690a1364/grails-web-url-mappings-3.2.11.jar!/META-INF/services/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web/3.2.11/55172ba02b8bd2d0ce31631624afbe9f41b6cda6/grails-web-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-async/3.2.11/c27629295cb2b162080237d5a0a76c5fefee5f23/grails-plugin-async-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/cache/3.0.3/e857268f939b4b907ce91ff4f5217cfb97abcaa7/cache-3.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-support/6.0.12.RELEASE/d4d3dea8bda48783ed7ad0602e208dfd433b1560/grails-datastore-gorm-support-6.0.12.RELEASE.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/hibernate5/6.0.12/4912a6445fbc726d9ce699dbe5d91af54036279e/hibernate5-6.0.12.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-codecs/3.2.11/39b46f29ceb1bef9ddce32d76034682a991d2775/grails-plugin-codecs-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-interceptors/3.2.11/7477d6b96ff9cade8fb5e35328242579c908708b/grails-plugin-interceptors-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/mail/2.0.0/e329ffe5c97f6949c61f0107b1b7e3d720ef2052/mail-2.0.0.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-services/3.2.11/fcf9e34bab3f7c668643616c39c4a169ceae914e/grails-plugin-services-3.2.11.jar!/META-INF/grails.factories" />
+                </list>
+              </option>
+              <option name="traits">
+                <map>
+                  <entry key="Controller">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.Controller" />
+                        <option value="grails.artefact.AsyncController" />
+                        <option value="grails.artefact.gsp.TagLibraryInvoker" />
+                        <option value="grails.artefact.controller.RestResponder" />
+                        <option value="grails.plugins.mail.SendMail" />
+                        <option value="grails.plugin.springsecurity.ControllerMixin" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="Domain">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.DomainClass" />
+                        <option value="grails.web.databinding.WebDataBinding" />
+                        <option value="grails.gorm.Entity" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="Interceptor">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.Interceptor" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="Service">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.Service" />
+                        <option value="grails.plugins.mail.SendMail" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="TagLib">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.TagLibrary" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="TagLibrary">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.TagLibrary" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </StateHolder>
+          </value>
+        </entry>
+        <entry key="Bank.test">
+          <value>
+            <StateHolder>
+              <option name="knownFactories">
+                <list>
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/spring-security-core/3.1.2/ca54acbad681d79bd545373db6dac234a637009f/spring-security-core-3.1.2.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/3.2.11/defc4fc496c7e98923e1ca0fb852eed21a4e2e5f/grails-plugin-controllers-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.2.11/31aa79f187114f6c6f7ad7e99680f8c9690a1364/grails-web-url-mappings-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-domain-class/3.2.11/8ecdb3117cf16c9c238728722a69abf2fb9a17de/grails-plugin-domain-class-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-validation/3.2.11/a74ffc7b1ec19aab1da9d3a18789355ce0d32e41/grails-validation-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-taglib/3.2.11/5cecb5b1ec19166952543bc5a96a0cee03c0ae65/grails-web-taglib-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/3.2.11/c1aefcd4c25287c78c72aebf529de770ceb6d0a0/grails-core-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-gsp/3.2.11/bb62eb9eb697826d7984207407b735b529e7d280/grails-plugin-gsp-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/3.2.11/6ec096acd8e58484dc653a2aad70acca20c5284a/grails-plugin-rest-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/3.2.11/f105e88b6b61c27f69819a74425af1d23d0e3f9a/grails-web-databinding-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-common/3.2.11/9aedefdff96c461e8160e1a013979836c974721a/grails-web-common-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.2.11/31aa79f187114f6c6f7ad7e99680f8c9690a1364/grails-web-url-mappings-3.2.11.jar!/META-INF/services/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web/3.2.11/55172ba02b8bd2d0ce31631624afbe9f41b6cda6/grails-web-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-async/3.2.11/c27629295cb2b162080237d5a0a76c5fefee5f23/grails-plugin-async-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/cache/3.0.3/e857268f939b4b907ce91ff4f5217cfb97abcaa7/cache-3.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-testing/3.2.11/f62a90fe57b4c0f962a174635c5d498529507d2f/grails-plugin-testing-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-support/6.0.12.RELEASE/d4d3dea8bda48783ed7ad0602e208dfd433b1560/grails-datastore-gorm-support-6.0.12.RELEASE.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/hibernate5/6.0.12/4912a6445fbc726d9ce699dbe5d91af54036279e/hibernate5-6.0.12.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-codecs/3.2.11/39b46f29ceb1bef9ddce32d76034682a991d2775/grails-plugin-codecs-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-interceptors/3.2.11/7477d6b96ff9cade8fb5e35328242579c908708b/grails-plugin-interceptors-3.2.11.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/mail/2.0.0/e329ffe5c97f6949c61f0107b1b7e3d720ef2052/mail-2.0.0.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-services/3.2.11/fcf9e34bab3f7c668643616c39c4a169ceae914e/grails-plugin-services-3.2.11.jar!/META-INF/grails.factories" />
+                </list>
+              </option>
+              <option name="traits">
+                <map>
+                  <entry key="Controller">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.Controller" />
+                        <option value="grails.artefact.AsyncController" />
+                        <option value="grails.artefact.gsp.TagLibraryInvoker" />
+                        <option value="grails.artefact.controller.RestResponder" />
+                        <option value="grails.plugins.mail.SendMail" />
+                        <option value="grails.plugin.springsecurity.ControllerMixin" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="Domain">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.DomainClass" />
+                        <option value="grails.web.databinding.WebDataBinding" />
+                        <option value="grails.gorm.Entity" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="Interceptor">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.Interceptor" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="Service">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.Service" />
+                        <option value="grails.plugins.mail.SendMail" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="TagLib">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.TagLibrary" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="TagLibrary">
+                    <value>
+                      <list>
+                        <option value="grails.artefact.TagLibrary" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </StateHolder>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TRU-394:Remove newly added Extra Discount Rimm table &amp; configuration tab" />
+    <MESSAGE value="TRU-399:MaxLengths for &quot;Create Category&quot; fields" />
+    <MESSAGE value="TRU-389:&quot;Patient Documentation&quot; tab of Patient front end" />
+    <MESSAGE value="TRU-389:&quot;Patient Documentation&quot; tab of Patient back end" />
+    <MESSAGE value="TRU-389:&quot;Patient Documentation&quot; tab of Patient back end front end delete and update partial" />
+    <MESSAGE value="Merge branch 'develop' of bitbucket.org:h-ed/trudent into feature/TRU-389&#10;&#10;# Conflicts:&#10;#&#9;grails-app/domain/com/inowise/trudent/patient/Patient.groovy&#10;#&#9;grails-app/views/patient/utils/_hiddenUrls.gsp" />
+    <MESSAGE value="TRU-394: Remove newly added Extra Discount Rimm table &amp; configuration tab" />
+    <MESSAGE value="TRU-394: Remove newly added Extra Discount Rimm table &amp; configuration tab bug fix" />
+    <MESSAGE value="TRU-415: maxLengths of fields in &quot;Create Diagnose&quot;" />
+    <MESSAGE value="TRU-389: &quot;Patient Documentation&quot; tab of Patient" />
+    <MESSAGE value="TRU-425:TRU-426:TRU-427 remove document bug fix" />
+    <MESSAGE value="TRU-441:TRU-413: make notes optional and treatment course date field logic" />
+    <MESSAGE value="TRU-441: init created date after click confirm button" />
+    <MESSAGE value="TRU-450: incorrect pagination documentation" />
+    <MESSAGE value="TRU-444: Changes in Finance tab" />
+    <MESSAGE value="TRU-444: TRU-446:Changes in Treatment Course Tab and Treatment Course History Tab" />
+    <MESSAGE value="TRU-444:Bug Fix in finance tab" />
+    <MESSAGE value="TRU-447, 398:Suggested values in &quot;Create Category&quot; pop-up and &quot;Archive&quot; action in Finance imple" />
+    <MESSAGE value="TRU-469:Default empty value for &quot;Confirmation Date&quot; field" />
+    <MESSAGE value="TRU-472:Edit Treatment in Configuration Tab" />
+    <MESSAGE value="TRU-482 TRU-483:suggested null and deleted value bug fix in configuration treatment tab" />
+    <MESSAGE value="TRU-471:Remove actions from course history page" />
+    <MESSAGE value="TRU-477:Ordering table columns finance tab" />
+    <MESSAGE value="TRU-478:Ordering data table columns treatment course history page" />
+    <MESSAGE value="TRU-463:Create &quot;Product Category&quot; configuration tab" />
+    <option name="LAST_COMMIT_MESSAGE" value="TRU-463:Create &quot;Product Category&quot; configuration tab" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="198" width="1343" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602414512279">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="418" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602351842446" />
+    <state x="2338" y="175" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602410467834" />
+    <state x="470" y="198" width="1343" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1602414512279" />
+    <state x="2453" y="354" width="844" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598038827249">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2453" y="354" width="844" height="396" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1598038827248" />
+    <state x="2688" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1602366787299">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2688" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602366787299" />
+    <state x="2593" y="420" width="573" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1597530036506">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2593" y="420" width="573" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1597530036506" />
+    <state x="2493" y="48" width="755" height="1008" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594722097866">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2493" y="48" width="755" height="1008" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1594722097866" />
+    <state x="736" y="320" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602416170489">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="693" y="320" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602404173696" />
+    <state x="2613" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602407630798" />
+    <state x="736" y="320" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1602416170489" />
+    <state x="2970" y="322" width="768" height="503" key="#xdebugger.evaluate" timestamp="1602400121479">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2230" y="239" width="768" height="503" key="#xdebugger.evaluate/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602340771248" />
+    <state x="2970" y="322" width="598" height="500" key="#xdebugger.evaluate/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602400121479" />
+    <state x="2341" y="103" width="912" height="904" key="CommitChangelistDialog2" timestamp="1602374930698">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2344" y="101" width="912" height="904" key="CommitChangelistDialog2/0.27.3840.1053@0.27.3840.1053" timestamp="1594981980022" />
+    <state x="421" y="103" width="912" height="904" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1595349794302" />
+    <state x="2341" y="103" width="912" height="847" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602374930698" />
+    <state width="588" height="506" key="DebuggerActiveHint" timestamp="1596231522041">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="588" height="506" key="DebuggerActiveHint/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1596231522041" />
+    <state x="2145" y="131" width="1536" height="894" key="DiffContextDialog" timestamp="1602374930062">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2145" y="131" width="1536" height="894" key="DiffContextDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602374930062" />
+    <state x="784" y="329" width="424" height="484" key="FileChooserDialogImpl" timestamp="1602414748344">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="689" y="338" width="424" height="484" key="FileChooserDialogImpl/0.27.3840.1053@0.27.3840.1053" timestamp="1601227019614" />
+    <state x="743" y="329" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602335801382" />
+    <state x="2663" y="310" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602403319111" />
+    <state x="784" y="329" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1602414748344" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1602420145270">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="322" key="GridCell.Tab.0.bottom/0.27.3840.1053@0.27.3840.1053" timestamp="1601227023044" />
+    <state width="1874" height="290" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602404197901" />
+    <state width="1874" height="355" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602411588896" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1602420145270" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1602420145267">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="322" key="GridCell.Tab.0.center/0.27.3840.1053@0.27.3840.1053" timestamp="1601227023043" />
+    <state width="1874" height="290" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602404197901" />
+    <state width="1874" height="355" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602411588896" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1602420145267" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1602420145263">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="322" key="GridCell.Tab.0.left/0.27.3840.1053@0.27.3840.1053" timestamp="1601227023043" />
+    <state width="1874" height="290" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602404197901" />
+    <state width="1874" height="355" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602411588895" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1602420145263" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1602420145269">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="322" key="GridCell.Tab.0.right/0.27.3840.1053@0.27.3840.1053" timestamp="1601227023043" />
+    <state width="1874" height="290" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602404197901" />
+    <state width="1874" height="355" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602411588896" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1602420145269" />
+    <state width="1874" height="290" key="GridCell.Tab.1.bottom" timestamp="1602407612500">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="305" key="GridCell.Tab.1.bottom/0.27.3840.1053@0.27.3840.1053" timestamp="1601227022359" />
+    <state width="1874" height="290" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602404197773" />
+    <state width="1874" height="290" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602407612500" />
+    <state width="1874" height="290" key="GridCell.Tab.1.center" timestamp="1602407612500">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="305" key="GridCell.Tab.1.center/0.27.3840.1053@0.27.3840.1053" timestamp="1601227022359" />
+    <state width="1874" height="290" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602404197772" />
+    <state width="1874" height="290" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602407612500" />
+    <state width="1874" height="290" key="GridCell.Tab.1.left" timestamp="1602407612500">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="305" key="GridCell.Tab.1.left/0.27.3840.1053@0.27.3840.1053" timestamp="1601227022359" />
+    <state width="1874" height="290" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602404197772" />
+    <state width="1874" height="290" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602407612500" />
+    <state width="1874" height="290" key="GridCell.Tab.1.right" timestamp="1602407612500">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="305" key="GridCell.Tab.1.right/0.27.3840.1053@0.27.3840.1053" timestamp="1601227022359" />
+    <state width="1874" height="290" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602404197773" />
+    <state width="1874" height="290" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602407612500" />
+    <state x="2463" y="298" width="824" height="508" key="IDE.errors.dialog" timestamp="1598376458110">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2463" y="298" width="824" height="508" key="IDE.errors.dialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1598376458110" />
+    <state x="1920" y="27" width="1920" height="980" key="MergeDialog" timestamp="1596232247303">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="53" width="1920" height="980" key="MergeDialog/0.27.3840.1053@0.27.3840.1053" timestamp="1594982026385" />
+    <state x="1920" y="27" width="1916" height="1005" key="MergeDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1596232247303" />
+    <state x="2585" y="270" width="580" height="564" key="MultipleFileMergeDialog" timestamp="1596232247307">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="558" y="281" key="MultipleFileMergeDialog/0.27.3840.1053@0.27.3840.1053" timestamp="1594982026389" />
+    <state x="2585" y="270" width="580" height="564" key="MultipleFileMergeDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1596232247307" />
+    <state x="2543" y="210" width="497" height="633" key="RollbackChangesDialog" timestamp="1602355542392">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="210" width="497" height="633" key="RollbackChangesDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602355542392" />
+    <state x="2369" y="187" width="1024" height="845" key="SettingsEditor" timestamp="1598040161240">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2369" y="187" width="1024" height="845" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1598040161240" />
+    <state x="2020" y="125" width="1720" height="855" key="VCS.FileHistoryDialog" timestamp="1597784118698">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2020" y="125" width="1720" height="855" key="VCS.FileHistoryDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1597784118698" />
+    <state x="2475" y="277" width="580" height="556" key="Vcs.Push.Dialog.v2" timestamp="1599156641764">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="320" y="297" width="800" height="556" key="Vcs.Push.Dialog.v2/0.27.3840.1053@0.27.3840.1053" timestamp="1594984454746" />
+    <state x="160" y="297" width="580" height="556" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1595349795911" />
+    <state x="2475" y="277" width="800" height="551" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1599156641764" />
+    <state x="570" y="189" width="770" height="773" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602352325550">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="570" y="189" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602352325550" />
+    <state x="2490" y="166" width="770" height="773" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1597528601875" />
+    <state x="2648" y="472" width="464" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599153942263">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="728" y="487" width="464" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1596616685392" />
+    <state x="2648" y="472" width="464" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1599153942263" />
+    <state x="297" y="27" width="1513" height="1011" key="dock-window-1" timestamp="1599149009784">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="225" y="197" width="1512" height="625" key="dock-window-1/0.27.3840.1053@0.27.3840.1053" timestamp="1594959828733" />
+    <state x="297" y="27" width="1513" height="1011" key="dock-window-1/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1599149009784" />
+    <state x="156" y="90" width="1513" height="678" key="dock-window-2" timestamp="1599153427080">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="156" y="90" width="1513" height="678" key="dock-window-2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1599153427080" />
+    <state x="316" y="0" width="1513" height="678" maximized="true" key="dock-window-3" timestamp="1601207071482">
+      <screen x="0" y="27" width="3840" height="1053" />
+    </state>
+    <state x="316" y="0" width="1513" height="678" maximized="true" key="dock-window-3/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1599160896016" />
+    <state x="656" y="311" width="863" height="576" key="find.popup" timestamp="1602420069512">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="610" y="311" width="894" height="576" key="find.popup/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602404023386" />
+    <state x="2530" y="291" width="894" height="590" key="find.popup/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602407156821" />
+    <state x="656" y="311" width="863" height="576" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1602420069512" />
+    <state x="2544" y="253" key="run.anything.popup" timestamp="1597439856251">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="253" key="run.anything.popup/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1597439856251" />
+    <state x="2544" y="198" width="672" height="676" key="search.everywhere.popup" timestamp="1602405790671">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="220" width="672" height="660" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1597909052791" />
+    <state x="2544" y="198" width="672" height="676" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602405790671" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/services/com/inowise/trudent/employee/management/EmployeeExecutorService.groovy</url>
+          <line>2</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/groovy/com/neovision/bank/exception/ControllerExceptionAware.groovy</url>
+          <line>37</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/services/com/inowise/trudent/configuration/product/ProductBindingService.groovy</url>
+          <line>31</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/services/com/inowise/trudent/configuration/rolesAndAuthorities/PositionPersistenceService.groovy</url>
+          <line>55</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/controllers/com/inowise/trudent/configuration/discount/extra/ConfigurationExtraDiscountController.groovy</url>
+          <line>17</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/controllers/com/inowise/trudent/configuration/discount/ConfigurationDiscountController.groovy</url>
+          <line>56</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/services/com/inowise/trudent/patient/documentation/DocumentationPersistenceService.groovy</url>
+          <line>52</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/services/com/inowise/trudent/patient/documentation/DocumentationPersistenceService.groovy</url>
+          <line>79</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/services/com/inowise/trudent/patient/documentation/DocumentationPersistenceService.groovy</url>
+          <line>86</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/services/com/inowise/trudent/patient/documentation/DocumentationPersistenceService.groovy</url>
+          <line>84</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/services/com/inowise/trudent/patient/documentation/DocumentationPersistenceService.groovy</url>
+          <line>83</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/controllers/com/inowise/trudent/ConfigurationCategoryController.groovy</url>
+          <line>23</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/services/com/inowise/trudent/configuration/product/ProductPersistenceService.groovy</url>
+          <line>55</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/controllers/com/inowise/trudent/ConfigurationCategoryController.groovy</url>
+          <line>36</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/controllers/com/inowise/trudent/configuration/productCategory/ProductCategoryController.groovy</url>
+          <line>20</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/grails-app/controllers/com/inowise/trudent/configuration/productCategory/ProductCategoryController.groovy</url>
+          <line>33</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

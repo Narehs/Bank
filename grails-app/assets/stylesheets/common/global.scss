@@ -1,0 +1,52 @@
+.main {
+	position: relative;
+	height: 100%;
+}
+
+.container-wrap {
+	min-height: 100%;
+	padding: calc(var(--header-height) + var(--space)) var(--space) var(--space) calc(var(--sidebar-width-opened) + var(--space));
+	display: flex;
+	transition: padding 0.3s ease;
+
+	&.closed {
+		padding-left: 72px;
+	}
+}
+
+section.content {
+	width: 100%;
+	min-height: 100%;
+	position: relative;
+}
+
+#content {
+	min-height: 100%;
+	position: relative;
+}
+
+.content-wrapper {
+	width: 100%;
+	background: $white;
+	border-radius: 10px;
+
+	&:not(:nth-of-type(1)) {
+		margin: 16px 0 0 0;
+	}
+
+	&.with-padding {
+		padding: var(--space);
+	}
+
+	&.min-height {
+		min-height: calc(100vh - 128px - 48px);
+	}
+
+	&.transparent {
+		background: none;
+	}
+}
+
+.rotate {
+	display: none;
+}

@@ -1,0 +1,118 @@
+/*
+Resset sass
+--------------------------------------------
+*/
+
+a, abbr, acronym, address, applet, article, aside, audio, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	vertical-align: baseline;
+	outline: 0 !important;
+}
+
+* {
+	-webkit-text-size-adjust: auto !important;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+a {
+	border: 0;
+}
+
+html {
+	overflow-x: hidden;
+}
+
+body {
+	line-height: 1;
+	word-wrap: break-word;
+}
+
+ol, ul {
+	list-style: none inside none;
+	background-image: none;
+	margin: 0;
+	padding: 0;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:after, blockquote:before, q:after, q:before {
+	content: "";
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* Remove controls from Firefox */
+input[type=number] {
+	-moz-appearance: textfield;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	margin: 0; /* Removes leftover margin */
+}
+
+input, textarea {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	line-height: normal;
+}
+
+:focus {
+	outline-color: transparent;
+	outline-style: none;
+}
+
+button::-moz-focus-inner {
+	border: 0;
+}
+
+*, :after, :before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.clear {
+	clear: both !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	height: 0 !important;
+	width: 0 !important;
+}
+
+button, select {
+	outline: none !important;
+}
+
+* {
+	-webkit-overflow-scrolling: touch;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	backface-visibility: hidden;
+	-webkit-font-smoothing: subpixel-antialiased;
+	font-smoothing: subpixel-antialiased;
+}
+
+input:-webkit-autofill {
+	-webkit-box-shadow: 0 0 0 30px #F2F2F9 inset;
+	box-shadow: 0 0 0 30px #F2F2F9 inset;
+}
+
+[contenteditable] {
+	-webkit-user-select: text !important;
+	user-select: text !important;
+}

@@ -1,0 +1,214 @@
+//
+// Custom sass functions
+// -----------------------------------------------------------
+
+// Middle function
+//-------------------------------------------
+
+@mixin middle() {
+	&:after {
+		content: "";
+		height: 100%;
+		vertical-align: middle;
+		display: inline-block;
+	}
+}
+
+// Middle content function
+//-------------------------------------------
+
+@mixin middleCont() {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+// Clear function
+//-------------------------------------------
+
+@mixin clear() {
+	&:after {
+		content: "";
+		display: table;
+		clear: both;
+	}
+}
+
+// Font function
+//-------------------------------------------
+
+@mixin font-face($name, $base64) {
+	@font-face {
+		font-family: "#{$name}";
+		src: url("data:application/x-font-woff;charset=utf-8;base64,#{$base64}") format("woff");
+	}
+}
+
+// placeholder function
+//-------------------------------------------
+
+@mixin placeholder($color) {
+	&::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+		color: $color;
+	}
+
+	&:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+		color: $color;
+		opacity: 1;
+	}
+
+	&::-moz-placeholder { /* Mozilla Firefox 19+ */
+		color: $color;
+		opacity: 1;
+	}
+
+	&:-ms-input-placeholder { /* Internet Explorer 10-11 */
+		color: $color;
+	}
+}
+@mixin placeholder-size($size) {
+	&::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+		font-size: $size;
+	}
+
+	&:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+		font-size: $size;
+	}
+
+	&::-moz-placeholder { /* Mozilla Firefox 19+ */
+		font-size: $size;
+	}
+
+	&:-ms-input-placeholder { /* Internet Explorer 10-11 */
+		font-size: $size;
+	}
+}
+
+@mixin placeholder-font() {
+	&::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+		font-family: 'Helvetica Neue', 'Roboto', sans-serif;
+	}
+
+	&:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+		font-family: 'Helvetica Neue', 'Roboto', sans-serif;
+	}
+
+	&::-moz-placeholder { /* Mozilla Firefox 19+ */
+		font-family: 'Helvetica Neue', 'Roboto', sans-serif;
+	}
+
+	&:-ms-input-placeholder { /* Internet Explorer 10-11 */
+		font-family: 'Helvetica Neue', 'Roboto', sans-serif;
+	}
+}
+
+
+// Box gradient horizontal function
+//-------------------------------------------
+
+@mixin box-gradient-h($up, $down) {
+	background: $up; /* Old browsers */
+	background: -moz-linear-gradient(top, $up 0%, $down 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, $up 0%, $down 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, $up 0%, $down 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="$up", endColorstr="$down", GradientType=0); /* IE6-9 */
+}
+
+// Box gradient vertical function
+//-------------------------------------------
+
+
+@mixin box-gradient-v($left, $right) {
+	background: $left; /* Old browsers */
+	background: -moz-linear-gradient(left, $left 0%, $right 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, $left 0%, $right 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, $left 0%, $right 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$left', endColorstr='$right', GradientType=1); /* IE6-9 */
+}
+
+// product gradient function
+//-------------------------------------------
+
+@mixin product-gradient($color, $color1, $color2, $percent: 50%) {
+	background: $color;
+	background: -moz-linear-gradient(left, $color 0%, $color1 $percent, $color2 100%);
+	background: -webkit-linear-gradient(left, $color 0%,$color1 $percent,$color2 100%);
+	background: linear-gradient(to right, $color 0%,$color1 $percent,$color2 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#{$color}', endColorstr='#{$color2}',GradientType=1 );
+}
+
+// Text gradient horizontal function
+//-------------------------------------------
+
+@mixin text-gradient-h($up, $down) {
+	background: -webkit-linear-gradient($up, $down);
+	background: linear-gradient($up, $down);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	text-fill-color: transparent;
+}
+
+
+// Text gradient vertical function
+//-------------------------------------------
+
+@mixin text-gradient-h($left, $right) {
+	background: -webkit-linear-gradient($left, $right);
+	background: linear-gradient($left, $right);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-clip: text;
+	text-fill-color: transparent;
+}
+
+// Selection disabling function
+//-------------------------------------------
+
+@mixin disable-selection() {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+// Scrollbar function
+//-------------------------------------------
+
+@mixin scrollbar() {
+	scrollbar-color: darken($athens-gray, 10%) $whisper;
+	scrollbar-width: thin;
+
+	&::-webkit-scrollbar {
+		width: 8px;
+	}
+
+	&::-webkit-scrollbar-track {
+		background: darken($athens-gray, 5%);
+		border-radius: 16px;
+	}
+
+	&::-webkit-scrollbar-thumb {
+		background: darken($athens-gray, 10%);
+		border-radius: 16px;
+	}
+}
+
+// Responsive function
+//-------------------------------------------
+
+@mixin screen($width) {
+	@media screen and (max-width: $width) {
+		@content;
+	}
+}
+
+@function get-vw($viewport,$target) {
+	$vw-context: ($viewport * 0.01) * 1px;
+	@return ($target / $vw-context) * 1vw;
+}
+
+@function calcPercent($elementWidth, $containerWidth) {
+	@return unquote(($elementWidth / $containerWidth) * 100 + '%');
+}

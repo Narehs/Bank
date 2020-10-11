@@ -1,0 +1,2 @@
+<g:hiddenField name="createTransactionUrl" value="${createLink(controller: 'user', action: 'createTransaction')}"/>
+<g:hiddenField name="withdrawTransactionUrl" value="${createLink(controller: 'transaction', action: 'withdraw')}"/>

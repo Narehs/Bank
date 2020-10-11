@@ -1,0 +1,1 @@
+<asset:javascript src="user/create-user.js"/>

@@ -1,0 +1,10 @@
+<thead>
+<tr>
+    <th>SendingId</th>
+    <th>ReceivingId</th>
+    <th>Amount</th>
+    <th>Status</th>
+    <th>Type</th>
+    <th></th>
+</tr>
+</thead>

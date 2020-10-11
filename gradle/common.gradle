@@ -1,0 +1,44 @@
+repositories {
+    mavenLocal()
+    maven { url "https://repo.grails.org/grails/core" }
+    maven { url 'http://dl.bintray.com/agorapulse/libs' }
+}
+
+dependencies {
+    compile "joda-time:joda-time:2.10.5"
+    compile "org.jadira.usertype:usertype.jodatime:2.0.1"
+    compile "com.google.guava:guava:28.1-jre"
+    compile "org.apache.commons:commons-lang3:3.9"
+
+    compile "com.jsunsoft.util:concurrent:0.0.2"
+
+    compile "org.grails.plugins:mail:2.0.0"
+    compile 'com.sun.mail:javax.mail:1.6.0'
+    compile "org.grails.plugins:external-config:1.1.2"
+
+    compile group: 'com.devskiller', name: 'jfairy', version: '0.6.4'
+}
+
+bootRun {
+    jvmArgs('-Dspring.output.ansi.enabled=always')
+    addResources = true
+}
+
+assets {
+    minifyJs = true
+    minifyCss = true
+    enableSourceMaps = true
+
+    minifyOptions = [
+            languageMode     : 'ES6',
+            targetLanguage   : 'ES5',
+            optimizationLevel: 'SIMPLE',
+    ]
+
+    excludes = ['common/*.scss', 'popups/*.scss', 'partials/header.scss', 'partials/sidebar.scss']
+}
+
+sourceSets.main.java.srcDirs = []
+sourceSets.main.groovy.srcDirs += ["src/main/java"]
+
+defaultTasks 'clean'
