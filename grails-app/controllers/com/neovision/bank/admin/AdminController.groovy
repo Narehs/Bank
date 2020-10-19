@@ -1,6 +1,6 @@
 package com.neovision.bank.admin
 
-
+import com.neovision.bank.currencies.CurrencyEnum
 import com.neovision.bank.utils.NumberUtils
 import grails.plugin.springsecurity.annotation.Secured
 import org.springframework.http.HttpStatus
@@ -15,32 +15,38 @@ class AdminController {
     def transactionService
 
     def index() {
-        render(view: 'index', model: [users:userService.getAll()])
+        render(view: 'index', model: [users: userService.getAll()])
     }
 
-    def user(){
-        render(view: 'user/_user', model: [user:userService.getOne(NumberUtils.toLong(params.id))])
+    def user() {
+        render(view: 'user/_user', model: [user: userService.getOne(NumberUtils.toLong(params.id))])
     }
 
-    def createAccount(){
-        accountService.createAccount(NumberUtils.toLong(params.id))
-        render(status: HttpStatus.OK)
+    def createAccount() {
+        List<CurrencyEnum> currencies = new ArrayList<>();
+        params.each { param ->
+            if (param.getValue().equals("on")) {
+                currencies.add(param.key)
+            }
+        }
+        accountService.createAccount(NumberUtils.toLong(params.userId), currencies)
+        redirect(controller: 'admin', action: 'user', params: [id: params.userId])
     }
 
-    def createUserPage(){
+    def createUserPage() {
         render(view: '/admin/createUser/_create')
     }
 
-    def createUser(){
+    def createUser() {
         userService.createUser(params.email, params.password)
         render(status: HttpStatus.OK)
     }
 
-    def accept(){
+    def accept() {
         transactionService.accept(NumberUtils.toLong(params.id))
     }
 
-    def reject(){
+    def reject() {
         transactionService.reject(NumberUtils.toLong(params.id))
     }
 }

@@ -1,6 +1,6 @@
 package com.neovision.bank.account
 
-
+import com.neovision.bank.currencies.CurrencyEnum
 import com.neovision.bank.security.User
 import org.joda.time.LocalDate
 
@@ -10,6 +10,7 @@ class Account {
 
     LocalDate createdDate = LocalDate.now()
     BigDecimal balance = BigDecimal.ZERO
+    CurrencyEnum currency
 
     User user
 
@@ -19,5 +20,9 @@ class Account {
         account nullable: false, blank: false, unique: true, maxSize: 12
         createdDate nullable: false
         balance nullable: false, max: new BigDecimal(100000000000000)
+    }
+
+    static mapping = {
+        currency enumType: 'string'
     }
 }

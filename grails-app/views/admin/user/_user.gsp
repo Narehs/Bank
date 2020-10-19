@@ -12,13 +12,22 @@
     <g:if test="${user.account}">
         <h2>
             <span>Account:</span>
-            ${user.account.account}
+            <g:each in="${user.account}" var="account">
+                <span> ${account.currency} : ${account.account}</span>
+            </g:each>
         </h2>
-    </g:if> <g:else>
-    <button id="createAccount" type="button" name="createAccount">Create Account</button>
-</g:else>
+    </g:if>
+    <g:else>
+        <g:form controller="admin" action="createAccount">
+            AMD <g:checkBox name="AMD"/>
+            EURO <g:checkBox name="EURO"/>
+            USD <g:checkBox name="USD"/>
+            RUB <g:checkBox name="RUB"/>
+            <g:hiddenField name="userId" value="${user.id}"/>
+            <g:actionSubmit value="createAccount"/>
+        </g:form>
+    </g:else>
 <g:render template="user/table/table"/>
-    <g:hiddenField name="userId" value="${user.id}"/>
 </div>
 <g:render template="user/utils/hiddenUrls"/>
 <g:render template="user/resource/resource"/>

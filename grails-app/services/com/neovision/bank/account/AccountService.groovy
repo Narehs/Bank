@@ -1,18 +1,23 @@
 package com.neovision.bank.account
 
+import com.neovision.bank.currencies.CurrencyEnum
 import com.neovision.bank.security.User
 import com.neovision.bank.utils.StringUtils
 
 class AccountService {
-    Account createAccount(Long userId){
+    List<Account> createAccount(Long userId, List<CurrencyEnum> currencies) {
         User user = User.findById(userId)
-        Account account = new Account();
-        if (user){
-            account.account = StringUtils.generateRandomDigits()
-            account.balance = 10000000
-            user.account = account
-            user.save(flush:true)
+        currencies.each { currency ->
+            Account account = new Account();
+            if (user) {
+                account.account = StringUtils.generateRandomDigits()
+                account.balance = 10000000
+                account.currency = currency
+                account.user =  user
+                user.account.add(account)
+            }
         }
-        return account
+        user.save(flush: true)
+        return user.account.toList()
     }
 }

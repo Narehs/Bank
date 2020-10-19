@@ -4,7 +4,7 @@ environments {
     development {
         dataSources {
             dataSource {
-                dbCreate = "create"
+                dbCreate = "create-drop"
                 url = "jdbc:mysql://localhost:3306/neovision?useSSL=true"
                 pooled = true
                 logSql = true

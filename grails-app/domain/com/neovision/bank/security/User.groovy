@@ -22,10 +22,10 @@ class User implements Serializable {
     boolean accountLocked
     boolean passwordExpired
 
-    Account account
+    Set<Account> account
     Set<Transaction> transactions
-    static hasOne = [account: Account]
-    static hasMany = [transactions: Transaction]
+
+    static hasMany = [account: Account, transactions: Transaction]
 
     Set<Role> getAuthorities() {
         (UserRole.findAllByUser(this) as List<UserRole>)*.role as Set<Role>
