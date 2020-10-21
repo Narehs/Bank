@@ -20,4 +20,12 @@ class AccountService {
         user.save(flush: true)
         return user.account.toList()
     }
+
+    Account getAccountByAccountNumber(String accountNumber) {
+        Account account = Account.findByAccount(accountNumber)
+        if (account != null)
+            return account
+        else
+            return null
+    }
 }

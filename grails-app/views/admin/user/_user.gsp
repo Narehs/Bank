@@ -20,7 +20,7 @@
     <g:else>
         <g:form controller="admin" action="createAccount">
             AMD <g:checkBox name="AMD"/>
-            EURO <g:checkBox name="EURO"/>
+            EURO <g:checkBox name="EUR"/>
             USD <g:checkBox name="USD"/>
             RUB <g:checkBox name="RUB"/>
             <g:hiddenField name="userId" value="${user.id}"/>

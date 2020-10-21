@@ -1,10 +1,22 @@
 //-------------------------------------------- Data Source Configuration ---------------------------------------------//
 
+com{
+    neovision{
+        bank{
+            exchangeURL =  "https://www.amdoren.com/api/currency.php?api_key=nqmTGexcExrDm7szWaVp7c6zgUrCRr&from={from}&to={to}"
+            scheme = "https"
+            host = "currency-exchange.p.rapidapi.com"
+            path = "/exchange"
+            q = "1.0"
+            key = "cf5d93cab7msh1f34aa4b8f891efp1a604djsn62be307e4eea"
+        }
+    }
+}
 environments {
     development {
         dataSources {
             dataSource {
-                dbCreate = "create-drop"
+                dbCreate = "create"
                 url = "jdbc:mysql://localhost:3306/neovision?useSSL=true"
                 pooled = true
                 logSql = true
@@ -19,7 +31,6 @@ environments {
 
 grails {
     logoutURL = "http://localhost:8080/"
-
     plugin {
         springsecurity {
 

@@ -41,6 +41,7 @@ class User implements Serializable {
     static mapping = {
         id generator: 'sequence', params: [sequence: 'BANK_SEQUENCE']
         password column: '`password`'
+        transactions cascade: "all-delete-orphan"
     }
 
     def beforeInsert() {
