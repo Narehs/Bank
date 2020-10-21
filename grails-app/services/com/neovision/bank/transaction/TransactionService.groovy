@@ -19,8 +19,8 @@ class TransactionService {
         if (senderAccount != receiverAccount && senderAccount.balance >= amount) {
             sender.addToTransactions(new Transaction(sendingAccountId: senderAccount.id, receivingAccountId: receiverAccount.id,
                     amount: amount, status: TransactionStatus.PENDING, type: TransactionType.DEPOSIT))
-            //senderAccount.balance -= amount
-            sender.save(flush:true)
+            senderAccount.balance -= amount
+            sender.save(flush: true)
 
             return sender
         }
@@ -31,7 +31,8 @@ class TransactionService {
         Transaction transaction = Transaction.findByIdAndStatus(id, TransactionStatus.PENDING)
         if (transaction) {
             User user = transaction.user
-            user.account.balance += transaction.amount
+            Account account = user.account.find { it -> it.id == transaction.sendingAccountId }
+            account.balance += transaction.amount
             transaction.status = TransactionStatus.REJECTED
             user.save(flush: true)
         }
@@ -47,13 +48,15 @@ class TransactionService {
         Account senderAccount = Account.findById(senderTransaction.sendingAccountId)
         Account receiverAccount = Account.findById(senderTransaction.receivingAccountId)
         BigDecimal rate = currencyExchange.getRate(senderAccount.currency.toString(), receiverAccount.currency.toString())
+        BigDecimal amountCurrency = senderTransaction.amount * rate
         Transaction transaction = new Transaction(sendingAccountId: senderTransaction.sendingAccountId,
-                receivingAccountId: senderTransaction.receivingAccountId, amount: senderTransaction.amount * rate,
+                receivingAccountId: senderTransaction.receivingAccountId, amount: amountCurrency,
                 status: TransactionStatus.ACCEPTED, type: TransactionType.WITHDRAWAL)
+        receiverAccount.balance += amountCurrency
         User receiver = receiverAccount.user
         receiver.transactions.add(transaction)
         transaction.user = receiver
-        receiver.save(flush:true)
+        receiver.save(flush: true)
 
         return senderTransaction
 
@@ -62,8 +65,11 @@ class TransactionService {
     Transaction reject(Long id) {
         Transaction transaction = Transaction.findByIdAndStatus(id, TransactionStatus.PENDING)
         if (transaction) {
+            User user = transaction.user
+            Account account = user.account.find { it -> it.id == transaction.sendingAccountId }
+            account.balance += transaction.amount
             transaction.status = TransactionStatus.REJECTED
-            transaction.save(flush: true)
+            user.save(flush: true)
         }
         return transaction
     }

@@ -20,7 +20,7 @@ class UserController {
     }
 
     def transfer() {
-        render(view: '_transfer', model: [user: userService.getOne(NumberUtils.toLong(params.id))])
+        render(view: 'transfer/_transfer', model: [user: userService.getOne(NumberUtils.toLong(params.id))])
     }
 
     def createTransaction() {
@@ -31,6 +31,6 @@ class UserController {
     def searchUserByAccount(String accountNumber) {
         Account account = accountService.getAccountByAccountNumber(accountNumber)
         println account
-        render template: "/user/transfer", model: [account: account, user: User.findById(NumberUtils.toLong(params.userId))]
+        render template: "/user/transfer/transferMainContainer", model: [account: account, user: User.findById(NumberUtils.toLong(params.userId))]
     }
 }

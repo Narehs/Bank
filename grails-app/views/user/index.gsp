@@ -18,5 +18,6 @@
 
 </div>
 <g:render template="resources/resources"/>
+<g:render template="utils/hiddenUrls"/>
 </body>
 </html>
