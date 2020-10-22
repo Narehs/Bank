@@ -54,8 +54,7 @@ class TransactionService {
                 status: TransactionStatus.ACCEPTED, type: TransactionType.WITHDRAWAL)
         receiverAccount.balance += amountCurrency
         User receiver = receiverAccount.user
-        receiver.transactions.add(transaction)
-        transaction.user = receiver
+        receiver.addToTransactions(transaction)
         receiver.save(flush: true)
 
         return senderTransaction

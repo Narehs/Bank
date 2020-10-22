@@ -1,10 +1,10 @@
 package com.neovision.bank.admin
 
+import com.neovision.bank.account.Account
 import com.neovision.bank.currencies.CurrencyEnum
 import com.neovision.bank.currencyConvert.CurrencyExchange
 import com.neovision.bank.utils.NumberUtils
 import grails.plugin.springsecurity.annotation.Secured
-import org.springframework.beans.factory.annotation.Autowire
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.http.HttpStatus
 
@@ -35,7 +35,6 @@ class AdminController {
                 currencies.add(param.key)
             }
         }
-      //  currencyExchange.exchange("USD", "AMD")
         accountService.createAccount(NumberUtils.toLong(params.userId), currencies)
         redirect(controller: 'admin', action: 'user', params: [id: params.userId])
     }
@@ -49,6 +48,17 @@ class AdminController {
         render(status: HttpStatus.OK)
     }
 
+    def chargeBalancePage() {
+        render(view: '/admin/user/chargeBalance/_charegBalance',
+                model: [selectedUser: userService.getOne(NumberUtils.toLong(params.userId)),
+                        account     : accountService.getOne(NumberUtils.toLong(params.accountID))])
+    }
+
+    def chargeBalance() {
+        accountService.chargeUserBalance(params.accountNumber, params.amount)
+        render(status: HttpStatus.OK)
+    }
+
     def accept() {
         transactionService.accept(NumberUtils.toLong(params.id))
     }
@@ -56,4 +66,5 @@ class AdminController {
     def reject() {
         transactionService.reject(NumberUtils.toLong(params.id))
     }
+
 }

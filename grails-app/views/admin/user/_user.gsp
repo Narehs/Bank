@@ -8,14 +8,22 @@
 
 <body>
 <div id="content">
-<h1>${user.username}</h1>
+    <h1>${user.username}</h1>
     <g:if test="${user.account}">
         <h2>
             <span>Account:</span>
             <g:each in="${user.account}" var="account">
-                <span> ${account.currency} : ${account.account}</span>
+                <span>${account.currency} : ${account.account}</span>
             </g:each>
         </h2>
+        <g:form controller="admin" action="chargeBalancePage">
+            <g:each in="${user.account}" var="account">
+                <label>${account.currency} <input type="radio" id="${account.id}" name="accountID"
+                                                  value="${account.id}"></label>
+            </g:each>
+            <g:hiddenField name="userId" value="${user.id}"/>
+            <button id="changeBalance" type="submit" name="changeBalance">Change Balance</button>
+        </g:form>
     </g:if>
     <g:else>
         <g:form controller="admin" action="createAccount">
@@ -27,7 +35,7 @@
             <g:actionSubmit value="createAccount"/>
         </g:form>
     </g:else>
-<g:render template="user/table/table"/>
+    <g:render template="user/table/table"/>
 </div>
 <g:render template="user/utils/hiddenUrls"/>
 <g:render template="user/resource/resource"/>
