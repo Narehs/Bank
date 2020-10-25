@@ -13,11 +13,29 @@ class AccountService {
                 account.account = StringUtils.generateRandomDigits()
                 account.balance = 10000000
                 account.currency = currency
-                account.user =  user
+                account.user = user
                 user.account.add(account)
             }
         }
         user.save(flush: true)
         return user.account.toList()
+    }
+
+    Account getAccountByAccountNumber(String accountNumber) {
+        Account account = Account.findByAccount(accountNumber)
+        if (account != null)
+            return account
+        else
+            return null
+    }
+
+    Account getOne(Long id) {
+        return Account.findById(id)
+    }
+
+    def chargeUserBalance(String accountNumber, String amount) {
+        Account account = Account.findByAccount(accountNumber)
+        account.balance += amount.toBigDecimal()
+        account.save(flush:true)
     }
 }
